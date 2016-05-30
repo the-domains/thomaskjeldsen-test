@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-05-30T19:06:30.376Z'
+datePublished: '2016-05-30T19:07:13.072Z'
 sourcePath: _posts/2016-05-30-tekniske-specifikationer.md
 author: []
-dateModified: '2016-05-30T19:06:26.128Z'
+dateModified: '2016-05-30T19:07:09.282Z'
 title: Specifikationer
-description: 7 x 15 watt LED
+description: 4×25 W LED
 starred: false
 inFeed: true
 hasPage: true
@@ -14,28 +14,28 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42b976ffe21c5d0c269464cb6342298aeb931c72.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4123f1b0-2ba4-494c-bdb5-113fc0426c47.png)
 
-# Grace
+# Stacey
 
 ### Specifikationer
 
-7 x 15 watt LED
+4×25 W LED
 
-16 DMX kanaler
+Farvehjul
 
-RGBW 4in1 Dioder
+Rotérbar Quad Prisme
 
-Lyn hurtig pan og tilt
+15 DMX kanaler
 
-Display kan vendes på hovedet
-
-4,2 kg
+7,2 kg
 
 ### [Tekniske specifikationer][0]
 
-## Glorias lillesøster
+## Stacey er til dig der vil have noget ekstra.
 
-Har du helt vildt meget lyst til lækker Wash med zoom? Og har du ikke så stort et pengetræ i haven? Så er Glorias lillesøster løsningen på det problem! Masser af fed teknik fra Gloria er brugt i Grace, og så har vi lige tweaket 25% mere lys i per diode cluster. Så selvom der kun er 7 4in1 dioder i, så er der masser af lys, også når der er zoomet helt ud. Akkurat som Gloria har Grace også en glorie-effekt når der er zoomet helt ind -- søskende er de ganske bestemt. Med flightcase i håndtaske størrelse er Grace til alle, for alle. Og med zoom der går fra decideret wash til regulær beam er Grace vel sagtens en kulørt Schweizerkniv
+Et lille hurtigt moving head med ialt 100W LED og dermed masser af lys, kniv skarp beam funktion og med det indeksérbare roterende Quad-Prisme kan der laves super fede effekter som næsten intet andet moving head kan i denne prisklasse.
 
-[0]: http://venturelite.dk/filer/Grace%20Produkt%20specifikationer.pdf "Tekniske specifikationer"
+Der er indbygget farvehjul som giver mulighed for endnu flere effekter. Stacey er et rigtig godt supplement til dig der i forvejen har profil moving heads, og med LED lyskilde er der nærmest ingen service på Stacey.
+
+[0]: http://venturelite.dk/filer/Carma%20Specifikationer.pdf "Tekniske specifikationer"
