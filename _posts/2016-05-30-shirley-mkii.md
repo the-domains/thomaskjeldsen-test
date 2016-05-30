@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-05-30T19:03:52.172Z'
+datePublished: '2016-05-30T19:04:09.667Z'
 sourcePath: _posts/2016-05-30-shirley-mkii.md
 author: []
-dateModified: '2016-05-30T19:03:40.619Z'
+dateModified: '2016-05-30T19:04:03.636Z'
 title: 'The Naughty Daughter!'
 description: 2R Beam moving head. Ultra hurtig pan og tilt
 starred: false
