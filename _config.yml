@@ -1,0 +1,14 @@
+layout_spectrum: 0.3787754736840725
+typography_spectrum: 0.3734073401428759
+color:
+  brandStrength: 0.46703077433630824
+  lightness: 0.5771294175647199
+  saturation: 0.5645855558104813
+  rhythmicContrast: 0.449552055913955
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: ThomasKjeldsen Test
