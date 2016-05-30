@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'VentureLite er din sikre, prisbevidste leverandør af intelligent lys til show, scene og underholdning.'
-datePublished: '2016-05-30T20:00:10.133Z'
-dateModified: '2016-05-30T20:00:05.600Z'
+description: ''
+datePublished: '2016-05-30T20:06:13.308Z'
+dateModified: '2016-05-30T20:05:34.186Z'
 title: Velkommen til VentureLite.dk
 author: []
 sourcePath: _posts/2016-05-30-velkommen-til-venturelitedk.md
@@ -17,6 +17,10 @@ starred: true
 _type: Blurb
 
 ---
-<article style=""><h1>Velkommen til VentureLite.dk</h1><p>VentureLite er din sikre, prisbevidste leverandør af intelligent lys til show, scene og underholdning.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af8b5ad2-2c35-4115-9a16-a8054366ba43.png)
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d989a7b0-d765-4bfa-9506-4e341189c811.png)
+# Velkommen til VentureLite.dk
+
+## Dedikeret passion. Ultimativ service. Omkostningsbevidst.
+
+#### VentureLite er din sikre, prisbevidste leverandør af intelligent lys til show, scene og underholdning.
