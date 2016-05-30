@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-30T18:52:17.847Z'
+datePublished: '2016-05-30T19:05:47.715Z'
+sourcePath: _posts/2016-05-30-specifikationer.md
 author: []
-dateModified: '2016-05-30T18:52:03.393Z'
+dateModified: '2016-05-30T19:05:39.477Z'
 title: Specifikationer
 description: 30 watt LED
 starred: false
-sourcePath: _posts/2016-05-30-specifikationer.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -15,6 +15,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b29473a-9226-4e50-8dcb-e7242a63f13a.png)
+
+# Champion
 
 ## Specifikationer
 
