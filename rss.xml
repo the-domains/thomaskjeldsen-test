@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[VentureLite]]></title>
         <description><![CDATA[VentureLite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thomaskjeldsen-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 18:49:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 May 2016 18:49:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thomaskjeldsen-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tekniske specifikationer]]></title>
+            <description><![CDATA[<article><h1>Tekniske specifikationer</h1><p>7 x 15 watt LED</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42b976ffe21c5d0c269464cb6342298aeb931c72.png"></article>]]></description>
+            <link>https://thegrid.ai/thomaskjeldsen-test/tekniske-specifikationer/index.html</link>
+            <guid isPermaLink="false">eab3e4cb-b3f8-44cb-a0e8-d3b97773a5b4</guid>
+            <pubDate>Mon, 30 May 2016 18:49:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tekniske specifikationer]]></title>
             <description><![CDATA[<article><h1>Tekniske specifikationer</h1><p>4×25 W LED</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4123f1b0-2ba4-494c-bdb5-113fc0426c47.png"></article>]]></description>
-            <link>undefinedtekniske-specifikationer/index.html</link>
+            <link>https://thegrid.ai/thomaskjeldsen-test/tekniske-specifikationer/index.html</link>
             <guid isPermaLink="false">5a15d41a-1c4f-4dc9-85e4-2c841b6fe7d9</guid>
             <pubDate>Mon, 30 May 2016 18:49:31 GMT</pubDate>
         </item>
