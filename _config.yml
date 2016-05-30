@@ -1,4 +1,3 @@
-layout_spectrum: 0.3787754736840725
 typography_spectrum: 0.3734073401428759
 color:
   brandStrength: 0.46703077433630824
@@ -11,4 +10,7 @@ color:
     - '#33332D'
     - '#9FB4CC'
     - '#DB4105'
-name: ThomasKjeldsen Test
+layout_spectrum: 0.3787754736840725
+name: VentureLite
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e1f648d-11d5-4759-8500-cbb5e331dacd.png'
+title: Intelligente lamper til lysbranchen
