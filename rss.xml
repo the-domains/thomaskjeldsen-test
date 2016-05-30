@@ -4,8 +4,15 @@
         <description><![CDATA[VentureLite]]></description>
         <link>https://thegrid.ai/thomaskjeldsen-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 18:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 18:52:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thomaskjeldsen-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Specifikationer]]></title>
+            <description><![CDATA[<article><h1>Specifikationer</h1><p>30 watt LED</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b29473a-9226-4e50-8dcb-e7242a63f13a.png"></article>]]></description>
+            <link>https://thegrid.ai/thomaskjeldsen-test/specifikationer/index.html</link>
+            <guid isPermaLink="false">b09215bf-98bb-4bd4-a339-0411fc92e4e4</guid>
+            <pubDate>Mon, 30 May 2016 18:52:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tekniske specifikationer]]></title>
             <description><![CDATA[<article><h1>Tekniske specifikationer</h1><p>7 x 15 watt LED</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42b976ffe21c5d0c269464cb6342298aeb931c72.png"></article>]]></description>
