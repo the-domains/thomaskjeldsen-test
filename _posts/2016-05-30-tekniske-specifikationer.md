@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-05-30T18:49:31.274Z'
+datePublished: '2016-05-30T18:49:32.786Z'
 author: []
-dateModified: '2016-05-30T18:45:42.831Z'
+dateModified: '2016-05-30T18:49:17.963Z'
 title: Tekniske specifikationer
-description: 4×25 W LED
+description: 7 x 15 watt LED
 starred: false
 sourcePath: _posts/2016-05-30-tekniske-specifikationer.md
 inFeed: true
@@ -14,26 +14,26 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4123f1b0-2ba4-494c-bdb5-113fc0426c47.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42b976ffe21c5d0c269464cb6342298aeb931c72.png)
 
 # Specifikationer
 
-4×25 W LED
+7 x 15 watt LED
 
-Farvehjul
+16 DMX kanaler
 
-Rotérbar Quad Prisme
+RGBW 4in1 Dioder
 
-15 DMX kanaler
+Lyn hurtig pan og tilt
 
-7,2 kg
+Display kan vendes på hovedet
+
+4,2 kg
 
 ### [Tekniske specifikationer][0]
 
-# Stacey er til dig der vil have noget ekstra.
+# Glorias lillesøster
 
-Et lille hurtigt moving head med ialt 100W LED og dermed masser af lys, kniv skarp beam funktion og med det indeksérbare roterende Quad-Prisme kan der laves super fede effekter som næsten intet andet moving head kan i denne prisklasse.
+Har du helt vildt meget lyst til lækker Wash med zoom? Og har du ikke så stort et pengetræ i haven? Så er Glorias lillesøster løsningen på det problem! Masser af fed teknik fra Gloria er brugt i Grace, og så har vi lige tweaket 25% mere lys i per diode cluster. Så selvom der kun er 7 4in1 dioder i, så er der masser af lys, også når der er zoomet helt ud. Akkurat som Gloria har Grace også en glorie-effekt når der er zoomet helt ind -- søskende er de ganske bestemt. Med flightcase i håndtaske størrelse er Grace til alle, for alle. Og med zoom der går fra decideret wash til regulær beam er Grace vel sagtens en kulørt Schweizerkniv
 
-Der er indbygget farvehjul som giver mulighed for endnu flere effekter. Stacey er et rigtig godt supplement til dig der i forvejen har profil moving heads, og med LED lyskilde er der nærmest ingen service på Stacey.
-
-[0]: http://venturelite.dk/filer/Carma%20Specifikationer.pdf "Tekniske specifikationer"
+[0]: http://venturelite.dk/filer/Grace%20Produkt%20specifikationer.pdf "Tekniske specifikationer"
