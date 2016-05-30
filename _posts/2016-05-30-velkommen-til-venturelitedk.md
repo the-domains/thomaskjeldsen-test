@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T20:06:13.308Z'
-dateModified: '2016-05-30T20:05:34.186Z'
+datePublished: '2016-05-30T20:07:49.838Z'
+dateModified: '2016-05-30T20:07:48.870Z'
 title: Velkommen til VentureLite.dk
 author: []
 sourcePath: _posts/2016-05-30-velkommen-til-venturelitedk.md
