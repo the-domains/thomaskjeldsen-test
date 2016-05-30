@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-30T18:55:04.234Z'
+datePublished: '2016-05-30T19:05:04.669Z'
+sourcePath: _posts/2016-05-30-til-dig-der-vil-det-hele-for-det-halve.md
 author: []
-dateModified: '2016-05-30T18:54:51.781Z'
+dateModified: '2016-05-30T19:04:56.778Z'
 title: 'Til dig der vil det hele for det halve!'
 description: 'VentureLite Rikardo 1k5 er den eneste laser vi har! Og hvorfor så det? Svaret herpå er ret enkelt faktisk. Med 1,5 watt samlet output er den kraftig nok til at dække fester med op til et par tusinde gæster, den har 7 farver, den kan styres både med RGB og med ILDA, den koster kun 5.800 inkl flightcase og moms, den vejer blot 6 kg og bruger under 50 watt, og så er der indbygget over 100 forskellige mønstre du kan vælge via DMX og du kan ændre en lang række parametre on-the-fly. Rikardo 1k5 kan lave ret fede lasereffekter for forholdsvis små penge. Og med 25.000 skanpunkter per sekund så står de klassiske effekter som loft, bjælker, tunnel osv. ret klart skåret hvis der er blot lidt røg i luften.'
 starred: false
-sourcePath: _posts/2016-05-30-til-dig-der-vil-det-hele-for-det-halve.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -16,7 +16,9 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/614343369b14119408eef922e04f677b81d1baa3.jpg)
 
-### Til dig der vil det hele for det halve!
+# Rikardo 1k5
+
+## Til dig der vil det hele for det halve!
 
 VentureLite Rikardo 1k5 er den eneste laser vi har! Og hvorfor så det? Svaret herpå er ret enkelt faktisk. Med 1,5 watt samlet output er den kraftig nok til at dække fester med op til et par tusinde gæster, den har 7 farver, den kan styres både med RGB og med ILDA, den koster kun 5.800 inkl flightcase og moms, den vejer blot 6 kg og bruger under 50 watt, og så er der indbygget over 100 forskellige mønstre du kan vælge via DMX og du kan ændre en lang række parametre on-the-fly. Rikardo 1k5 kan lave ret fede lasereffekter for forholdsvis små penge. Og med 25.000 skanpunkter per sekund så står de klassiske effekter som loft, bjælker, tunnel osv. ret klart skåret hvis der er blot lidt røg i luften.
 
